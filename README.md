@@ -1,130 +1,74 @@
-<h1 align="center">Hi 👋 I'm Vahap Küçükkömürcü</h1>
+<div align="center">
 
-<h3 align="center">
-Bioinformatics Engineer • AI Developer • Research Software Engineer
-</h3>
+<img src="assets/banner.svg" width="100%"/>
+
+# Hi, I'm Vahap Küçükkömürcü 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=900&lines=Bioinformatics+Engineer;Research+Software+Developer;AI+%7C+Genomics+%7C+Machine+Learning;Building+Open-Source+Scientific+Software"/>
+
+![](https://komarev.com/ghpvc/?username=VahaPython&style=for-the-badge&color=blue)
+
+[Portfolio](https://vahapython.github.io/Vahap-Kucukkomurcu/) •
+[LinkedIn](https://www.linkedin.com/in/vahapkucukkomurcu) •
+[Email](mailto:vahapkucukkomurcu@gmail.com)
+
+</div>
+
+---
+
+## 🧬 About Me
+
+Final-year Bioengineering student specializing in **Bioinformatics**.
+
+I build research software that combines biology, AI and software engineering to make genomic analysis more accessible.
+
+## 🚀 Featured Projects
+
+| Project | Link |
+|---|---|
+| ConVarT | https://convart.org |
+| CiliaMiner | https://www.ciliaminer.com |
+| CiliaHub | https://www.ciliahub.org |
+| Ortholog Browser | https://vahapython.github.io/C.elegans-Strain-Ortholog-Browser-Static/# |
+| Portfolio | https://vahapython.github.io/Vahap-Kucukkomurcu/ |
+
+## 🛠️ Tech Stack
 
 <p align="center">
-
-Building computational tools for genomic discovery.
-
+<img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,react,nextjs,nodejs,docker,git,github,linux,postgres,mongodb,tensorflow,pytorch,vscode&perline=9"/>
 </p>
 
----
+## 📊 GitHub Stats
 
-## About Me
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VahaPython&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VahaPython&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-I am a final-year Bioengineering student at Abdullah Gül University, specializing in Bioinformatics.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VahaPython&theme=tokyonight&hide_border=true"/>
+</p>
 
-My interests include
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VahaPython&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-- 🧬 Bioinformatics
-- 🧬 Comparative Genomics
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 💻 Scientific Software Development
-
-I enjoy building tools that help researchers analyze biological data faster and more intuitively.
-
----
-
-## Current Projects
-
-- 🔬 ConVarT v3
-- 🧬 CiliaMiner
-- 🌐 CiliaHub
-- 📈 AI-assisted variant interpretation
-- 🧠 Machine Learning for genomics
-
----
-
-## Research Interests
+## 🔬 Research Interests
 
 - Comparative Genomics
 - Variant Interpretation
 - Computational Biology
 - Biomedical AI
-- Explainable Machine Learning
+- Scientific Visualization
 
----
+## 🐍 Contribution Snake
 
-## Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,r,js,ts,react,nextjs,nodejs,docker,git,linux,postgres,mongodb,vscode,tensorflow,pytorch"/>
-
-</p>
-
----
-
-## GitHub Stats
+After enabling the included workflow:
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=VahaPython&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VahaPython&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/VahaPython/VahaPython/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VahaPython&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## Featured Projects
-
-🧬 CiliaMiner
-
-AI-powered platform for ciliary gene analysis.
-
----
-
-🧬 ConVarT v3
-
-Cross-species orthologous variant exploration platform.
-
----
-
-🧬 Ortholog Browser
-
-Interactive comparative genomics browser.
-
----
-
-🌐 Personal Portfolio
-
-Research portfolio and projects.
-
----
-
-## Currently Learning
-
-- Deep Learning
-- Structural Bioinformatics
-- Protein Language Models
-- LLM Applications in Biology
-
----
-
-## Connect
-
-Portfolio
-
-LinkedIn
-
-Email
-
-Google Scholar (coming soon)
-
-ORCID (coming soon)
+> **Building AI-powered bioinformatics software for genomic discovery.**
