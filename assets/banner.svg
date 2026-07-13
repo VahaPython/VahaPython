@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#0f172a"/>
+<stop offset="50%" stop-color="#2563eb"/>
+<stop offset="100%" stop-color="#06b6d4"/>
+</linearGradient>
+</defs>
+<rect width="1280" height="320" fill="url(#g)"/>
+<text x="60" y="120" fill="white" font-size="48" font-family="Arial" font-weight="bold">VAHAP KÜÇÜKKÖMÜRCÜ</text>
+<text x="60" y="170" fill="#dbeafe" font-size="28" font-family="Arial">Bioinformatics Engineer • AI • Genomics • Research Software</text>
+<text x="60" y="230" fill="white" font-size="22" font-family="Arial">Building computational tools for scientific discovery.</text>
+<circle cx="1120" cy="90" r="42" fill="none" stroke="#93c5fd" stroke-width="3"/>
+<circle cx="1060" cy="180" r="28" fill="none" stroke="#67e8f9" stroke-width="3"/>
+<circle cx="1170" cy="220" r="18" fill="none" stroke="#bfdbfe" stroke-width="3"/>
+</svg>
