@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="55%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+
+    <linearGradient id="dna" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <style>
+      .title{font:700 52px Arial,sans-serif;fill:#fff}
+      .sub{font:600 24px Arial,sans-serif;fill:#dbeafe}
+      .body{font:400 20px Arial,sans-serif;fill:#cbd5e1}
+      .chip{fill:#111827;stroke:#3b82f6;stroke-width:1.2;rx:18}
+      .chiptext{font:600 16px Arial,sans-serif;fill:#e5e7eb}
+      @keyframes float{0%{transform:translateY(0)}50%{transform:translateY(-8px)}100%{transform:translateY(0)}}
+      #dna{animation:float 6s ease-in-out infinite;}
+    </style>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bg)"/>
+
+  <circle cx="260" cy="70" r="110" fill="#38bdf8" opacity=".15" filter="url(#blur)"/>
+  <circle cx="1170" cy="330" r="120" fill="#818cf8" opacity=".18" filter="url(#blur)"/>
+
+  <g transform="translate(70,80)">
+    <text class="title" y="0">VAHAP KÜÇÜKKÖMÜRCÜ</text>
+    <text class="sub" y="48">Bioinformatics Engineer • Research Software Developer</text>
+    <text class="body" y="92">Building AI-powered software for genomic discovery.</text>
+
+    <g transform="translate(0,135)">
+      <rect class="chip" width="120" height="38"/>
+      <text class="chiptext" x="22" y="24">Portfolio</text>
+
+      <g transform="translate(140,0)">
+        <rect class="chip" width="120" height="38"/>
+        <text class="chiptext" x="22" y="24">LinkedIn</text>
+      </g>
+
+      <g transform="translate(280,0)">
+        <rect class="chip" width="110" height="38"/>
+        <text class="chiptext" x="22" y="24">ConVarT</text>
+      </g>
+
+      <g transform="translate(410,0)">
+        <rect class="chip" width="140" height="38"/>
+        <text class="chiptext" x="18" y="24">CiliaMiner</text>
+      </g>
+    </g>
+
+    <text class="body" y="245">AI • Genomics • Variant Interpretation • ML</text>
+  </g>
+
+  <g id="dna" transform="translate(1040,45)">
+    <path d="M0,0 C90,50 90,130 0,180 C-90,230 -90,310 0,360"
+          fill="none" stroke="url(#dna)" stroke-width="5"/>
+    <path d="M90,0 C0,50 0,130 90,180 C180,230 180,310 90,360"
+          fill="none" stroke="url(#dna)" stroke-width="5"/>
+
+    <g stroke="#BFDBFE" stroke-width="2">
+      <line x1="0" y1="0" x2="90" y2="0" />
+      <line x1="20" y1="24" x2="70" y2="24" />
+      <line x1="0" y1="48" x2="90" y2="48" />
+      <line x1="20" y1="72" x2="70" y2="72" />
+      <line x1="0" y1="96" x2="90" y2="96" />
+      <line x1="20" y1="120" x2="70" y2="120" />
+      <line x1="0" y1="144" x2="90" y2="144" />
+      <line x1="20" y1="168" x2="70" y2="168" />
+      <line x1="0" y1="192" x2="90" y2="192" />
+      <line x1="20" y1="216" x2="70" y2="216" />
+      <line x1="0" y1="240" x2="90" y2="240" />
+      <line x1="20" y1="264" x2="70" y2="264" />
+      <line x1="0" y1="288" x2="90" y2="288" />
+      <line x1="20" y1="312" x2="70" y2="312" />
+      <line x1="0" y1="336" x2="90" y2="336" />
+      <line x1="20" y1="360" x2="70" y2="360" />
+
+    </g>
+  </g>
+</svg>
