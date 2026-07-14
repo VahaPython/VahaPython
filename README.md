@@ -88,9 +88,6 @@ Curated bioinformatics platform mapping ciliary genes, phenotypes, and variant d
 
 <br/><br/>
 
-[![VahaPython](https://github-profile-trophy.vercel.app/?username=VahaPython&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/><br/>
 
 ![snake](https://raw.githubusercontent.com/VahaPython/VahaPython/output/github-contribution-grid-snake.svg)
 
