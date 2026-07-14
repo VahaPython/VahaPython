@@ -1,74 +1,108 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+# Vahap
 
-# Hi, I'm Vahap Küçükkömürcü 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Bioinformatics+Engineer;Research+Software+Developer;Building+AI-powered+Genomics+Tools)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=900&lines=Bioinformatics+Engineer;Research+Software+Developer;AI+%7C+Genomics+%7C+Machine+Learning;Building+Open-Source+Scientific+Software"/>
+CiliaMiner &nbsp;·&nbsp; ConVarT &nbsp;·&nbsp; Variant Interpretation &nbsp;·&nbsp; Comparative Genomics
 
-![](https://komarev.com/ghpvc/?username=VahaPython&style=for-the-badge&color=blue)
-
-[Portfolio](https://vahapython.github.io/Vahap-Kucukkomurcu/) •
-[LinkedIn](https://www.linkedin.com/in/vahapkucukkomurcu) •
-[Email](mailto:vahapkucukkomurcu@gmail.com)
+[Featured Research](#-featured-projects) &nbsp;&nbsp;|&nbsp;&nbsp; [Tech Stack](#-tech-stack) &nbsp;&nbsp;|&nbsp;&nbsp; [Contact](#-contact-with-me)
 
 </div>
 
----
+<br/>
+### About Me
 
-## 🧬 About Me
+- I'm currently studying **Bioengineering** at Abdullah Gül University
+- I'm currently working as a **Research Assistant** on bioinformatics platforms
+- I'm currently building **CiliaMiner** (ciliary gene/phenotype database) and **ConVarT** (variant priority scoring)
+- I'm currently learning **AlphaMissense integration**, protein language models, and single-cell RNA-seq analysis
+- Ask me about Python, bioinformatics pipelines, data visualization, server/nginx deployment
+- Fun fact: my server config commits and my LaTeX CV commits happen in the same week, every time
 
-Final-year Bioengineering student specializing in **Bioinformatics**.
+<br/>
 
-I build research software that combines biology, AI and software engineering to make genomic analysis more accessible.
+## Tech Stack
 
-## 🚀 Featured Projects
+**Languages**
 
-| Project | Link |
-|---|---|
-| ConVarT | https://convart.org |
-| CiliaMiner | https://www.ciliaminer.com |
-| CiliaHub | https://www.ciliahub.org |
-| Ortholog Browser | https://vahapython.github.io/C.elegans-Strain-Ortholog-Browser-Static/# |
-| Portfolio | https://vahapython.github.io/Vahap-Kucukkomurcu/ |
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,bash,r,postgresql,html,css,js&theme=darkmode)](https://github.com/VahaPython)
 
-## 🛠️ Tech Stack
+**Frameworks & Libraries**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,react,nextjs,nodejs,docker,git,github,linux,postgres,mongodb,tensorflow,pytorch,vscode&perline=9"/>
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react&libraries=tensorflow&theme=darkmode)](https://github.com/VahaPython)
 
-## 📊 GitHub Stats
+**Tools**
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VahaPython&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VahaPython&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,nginx,jupyter&theme=darkmode)](https://github.com/VahaPython)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VahaPython&theme=tokyonight&hide_border=true"/>
-</p>
+**Software**
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VahaPython&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&theme=darkmode)](https://github.com/VahaPython)
 
-## 🔬 Research Interests
+<br/>
 
-- Comparative Genomics
-- Variant Interpretation
-- Computational Biology
-- Biomedical AI
-- Scientific Visualization
+## Featured Projects
 
-## 🐍 Contribution Snake
+<table>
+<tr>
+<td width="50%" valign="top">
 
-After enabling the included workflow:
+### ConVarT
+Variant priority scoring platform with a T+X composite formula and an interactive lollipop/track visualization frontend.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VahaPython/VahaPython/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+**Tech:** `Python` `Pandas` `D3.js` `AlphaMissense`
 
----
+[`Demo`](#) · [`GitHub`](#)
 
-> **Building AI-powered bioinformatics software for genomic discovery.**
+</td>
+<td width="50%" valign="top">
+
+### CiliaMiner
+Curated bioinformatics platform mapping ciliary genes, phenotypes, and variant data for ciliopathy research.
+
+**Tech:** `Python` `PostgreSQL` `JavaScript` `Nginx`
+
+[`Demo`](#) · [`GitHub`](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRiODI4M3YzMGZ0a2V3d24xdjlmeDM0a2N3YWY3YzlrY3NsMW9zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400"/>
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=VahaPython&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/VahaPython)
+
+<br/><br/>
+
+[![VahaPython](https://github-readme-streak-stats.herokuapp.com/?user=VahaPython&theme=midnight-purple)](https://github.com/VahaPython)
+
+<br/><br/>
+
+[![](https://github.com/VahaPython/VahaPython/raw/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/VahaPython/VahaPython/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<br/><br/>
+
+[![VahaPython](https://github-profile-trophy.vercel.app/?username=VahaPython&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/>
+
+![snake](https://raw.githubusercontent.com/VahaPython/VahaPython/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br/>
+
+## Contact with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vahapkucukkomurcu)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vahapkucukkomurcu@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](#)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](#)
+
+⭐️ From [VahaPython](https://github.com/VahaPython)
